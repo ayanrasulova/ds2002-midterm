@@ -1,1 +1,3 @@
-# ds2002-midterm
+#**DS 2002 Midterm**
+
+Ayan, Holden, Parker, Andrew
