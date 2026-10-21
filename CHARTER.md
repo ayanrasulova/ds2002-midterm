@@ -19,7 +19,8 @@ Andrew can work on the weather api and joins needed
 3. Visualizations
 Holden can create the data visualizations necessary to convey the data
 
-4. 
+4. Clean Pipeline Review and Risks 
+Parker can review the cleanup and form the biggest risks of the project 
 
 3. Who owns each question:
 Q1:
