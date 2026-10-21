@@ -23,7 +23,7 @@ Holden can create the data visualizations necessary to convey the data
 
 3. Who owns each question:
 Q1:
-Q2:
+Q2: SKU - ayan
 Q3:
 Q4:
 Q5:
