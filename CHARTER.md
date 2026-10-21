@@ -7,7 +7,7 @@ What does each person want to get out of this? One person might want API practic
 
 What limits our time? Other class workloads, jobs, ...
 
-What would make this a bad experience, and what will we do to avoid it? ...
+What would make this a bad experience, and what will we do to avoid it? Not getting this done in a timely manner and procrastinating all the way until the end.
 
 2. Roles
 1. Data Cleanup
@@ -30,7 +30,7 @@ Q5:
 
 4. How we work together
 
-Where do we talk, and how fast do we answer? We discuss most coursework in a team groupchat and tr yot respond t eachother's messages within 24 hours.
+Where do we talk, and how fast do we answer? We discuss most coursework in a team groupchat and try to respond to eachother's messages within 24 hours.
 
 When do we meet outside class? A real recurring slot that is on everyone's calendar. "We'll text" is not a meeting time.
 
