@@ -25,7 +25,7 @@ Parker can review the cleanup and form the biggest risks of the project
 3. Who owns each question:
 Q1: ayan cleaned transaction data
 Q2: ayan (built sku mapping table, consolidated fragmented products, showed visualization before and after cleaning, and have analysis of business impacts)
-Q3:
+Q3: andrew (pulled data from open-meteo api, ran weather correlation between weather and walmart sales for several days in sept, built graphs showing correlation and analysis of impact)
 Q4:
 Q5:
 
