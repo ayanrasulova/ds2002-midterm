@@ -24,7 +24,7 @@ Parker can review the cleanup and form the biggest risks of the project
 
 3. Who owns each question:
 Q1:
-Q2: SKU - ayan
+Q2: SKU - ayan (built sku mapping table, consolidated fragmented products, showed visualization before and after cleaning, and have analysis of business impacts)
 Q3:
 Q4:
 Q5:
