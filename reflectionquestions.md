@@ -8,6 +8,8 @@ One data quality issue we found was that strawberry pop tarts appeared under fou
 
 Q: You made choices about how to standardize SKUs, handle missing timestamps, and join weather data. Pick one decision and explain: what alternative approach could you have taken, and how might it have changed your results?
 
+We chose to interpret transaction timestamps as Eastern time then convert to UTC for alignment with the weather data while keeping sales grouped by their local Eastern calendar date. An alternative approach we could have done would be grouping the sales by UTC dates instead, but that would shift some later timestamped Florida transactions into the next day, which would have made the daily sales totals less accurate and perhaps cause the sale spikes to misalign with the weather that was recorded for that day
+
 3. Pipeline Trust
 
 Q: The Walmart CDO argued that the biggest risk is not the model — it is the pipeline. Based on your experience in this project, do you agree or disagree? What was the most fragile part of your data pipeline?
