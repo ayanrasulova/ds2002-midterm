@@ -11,20 +11,20 @@ What would make this a bad experience, and what will we do to avoid it? Not gett
 
 2. Roles
 1. Data Cleanup
-Ayan can work on cleaning up the data set in advance
+Ayan can work on cleaning up the data set in advance, including cleaning and grouping data, as well as SKU consolidation.
 
 2. Weather API + Join
 Andrew can work on the weather api and joins needed
 
 3. Visualizations
-Holden can create the data visualizations necessary to convey the data
+Holden can create the data visualizations necessary to convey the data. Ayan also worked on some visualizations for the SKU consolidation question.
 
 4. Clean Pipeline Review and Risks 
 Parker can review the cleanup and form the biggest risks of the project 
 
 3. Who owns each question:
-Q1:
-Q2: SKU - ayan (built sku mapping table, consolidated fragmented products, showed visualization before and after cleaning, and have analysis of business impacts)
+Q1: ayan cleaned transaction data
+Q2: ayan (built sku mapping table, consolidated fragmented products, showed visualization before and after cleaning, and have analysis of business impacts)
 Q3:
 Q4:
 Q5:
