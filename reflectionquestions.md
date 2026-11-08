@@ -14,6 +14,8 @@ We chose to interpret transaction timestamps as Eastern time then convert to UTC
 
 Q: The Walmart CDO argued that the biggest risk is not the model — it is the pipeline. Based on your experience in this project, do you agree or disagree? What was the most fragile part of your data pipeline?
 
+A: W'd agree with the CDO. Our models were relatively simple, so nearly every way we could have gotten a wrong answer came from the data feeding them. The most fragile part of our pipeline was most likely category standardization, because it relied on rules we wrote by hand and only caught the variants we knew to look for. As a result, our Question 5 analysis filtered on "Entertainment" alone and left out 1,062 board game and playing card units, about 25% of the category. The gap was small this time, but nothing in the pipeline flagged it, and the same  miss could change a stocking decision on another dataset or store with more in that category. If we did this again, we would fix labels once in the cleaning step and check every category against an approved list, so an unknown label would stop the notebook instead of quietly dropping sales.
+
 4. Business vs. Data
 
 Q: For Question 5 (board games), your team had to make a recommendation with imperfect data. How did you weigh statistical evidence against business risk? Would you have decided differently with more time or more data?
