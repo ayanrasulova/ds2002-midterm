@@ -26,8 +26,8 @@ Parker can review the cleanup and form the biggest risks of the project
 Q1: ayan cleaned transaction data
 Q2: ayan (built sku mapping table, consolidated fragmented products, showed visualization before and after cleaning, and have analysis of business impacts)
 Q3: andrew (pulled data from open-meteo api, ran weather correlation between weather and walmart sales for several days in sept, built graphs showing correlation and analysis of impact)
-Q4:
-Q5:
+Q4: Holden (intrepreted and cleaned the graphic showing orrelation between surge and distance from storm path) and ___(not sure who did the otehr part of the question)
+Q5: Holden (conducted cateogry audit, created visualization(s), intrepreted information)
 
 4. How we work together
 
