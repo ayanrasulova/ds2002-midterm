@@ -21,6 +21,9 @@ A: We'd agree with the CDO. Our models were relatively simple, so nearly every w
 
 Q: For Question 5 (board games), your team had to make a recommendation with imperfect data. How did you weigh statistical evidence against business risk? Would you have decided differently with more time or more data?
 
+A: Our statistical evidence suggested that there was an increase in both board games and playing card sales, but the signals presented with both the cleaned and dirty data did not suggest a change close to 250%, as previously believed. We believed that the cleaned data was trustworthy, as we had repeatedly reviewed the data and ensured its accuracy. We believe that it would be a larger business risk to ignore the data, and to stock the stores in accordance with the 250% number. This would lead to overflow in the long term. With more time and more data, we may have found signals that demonstrated a surge upwards of 250%, but we are unsure if more time would be the deciding factor in that. Having more data is always a positive, as it would help us draw stronger conclusions regarding changes in sales, impacting our future stocking and other business decisions.
+
+
 5. Team Collaboration
 
 Q: How did your team divide the work? What would you do differently if you had another week? What was the most valuable skill each team member contributed?
