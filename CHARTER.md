@@ -9,7 +9,8 @@ What limits our time? Other class workloads, jobs, ...
 
 What would make this a bad experience, and what will we do to avoid it? Not getting this done in a timely manner and procrastinating all the way until the end.
 
-2. Roles
+
+ Roles
 1. Data Cleanup
 Ayan can work on cleaning up the data set in advance, including cleaning and grouping data, as well as SKU consolidation.
 
