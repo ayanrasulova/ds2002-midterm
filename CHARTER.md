@@ -31,10 +31,14 @@ Q5: Holden (conducted cateogry audit, created visualization(s), intrepreted info
 
 4. How we work together
 
-Where do we talk, and how fast do we answer? We discuss most coursework in a team groupchat and try to respond to eachother's messages within 24 hours.
+**Where do we talk, and how fast do we answer?**
+We discuss most coursework in a team groupchat and try to respond to eachother's messages within 24 hours.
 
-When do we meet outside class? A real recurring slot that is on everyone's calendar. "We'll text" is not a meeting time.
+**When do we meet outside class? A real recurring slot that is on everyone's calendar. "We'll text" is not a meeting time.**
+Not only were we able to communicate via consistent daily communication in the evenings with updates on progress, as well as meeting in person during class periods, but we also were able to schedule reoccurring weekly virtual calls to review project information before submission.
 
-How do we decide when we disagree? A reasonable rule: look at the data first. If you are still stuck, the owner of that part decides, and the decision goes in the decision log with the reason.
+**How do we decide when we disagree? A reasonable rule: look at the data first. If you are still stuck, the owner of that part decides, and the decision goes in the decision log with the reason.**
+When in disagreement, we would first look over the source of disagreement and take each part of the data into consideration. Whoever owned that part would mostly take responsibility, but we would all weigh our opinions equally and decide from there.
 
-What do we do if someone goes quiet? A reasonable rule: check in after a day. If there is still nothing after two, bring it to the whole team. If it is still not resolved, email me. Don't wait until the week it is due.
+**What do we do if someone goes quiet? A reasonable rule: check in after a day. If there is still nothing after two, bring it to the whole team. If it is still not resolved, email me. Don't wait until the week it is due.**
+While we did not have this issue since there was consistent communication, we decided in the case this happens, we would professionally reach out before escalating 
